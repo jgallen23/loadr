@@ -1,0 +1,13 @@
+{
+  "name": "loadr",
+  "description": "a library to load modules in the broswer",
+  "version": "0.0.1",
+  "homepage": "https://github.com/jgallen23/loadr",
+  "authors": ["Greg Allen, @jgaui"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jgallen23/loadr.git"
+  },
+  "main": "./dist/loadr.js",
+  "keywords": ["ender", "bundle", "load", "module"]
+}
